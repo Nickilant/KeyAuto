@@ -8,4 +8,5 @@
 
 $f = 5;
 //added comented
+$e = 4;
 ?>
